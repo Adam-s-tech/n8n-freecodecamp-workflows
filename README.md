@@ -9,6 +9,7 @@ Crédits
 - Auteur de la vidéo : Gavin Lon  
 - Chaîne / cours : freeCodeCamp.org  
 - Date vidéo : 12 nov. 2025
+- La vidéo : https://www.youtube.com/watch?v=GIZzRGYpCbM
 
 Liens utiles
 ------------
